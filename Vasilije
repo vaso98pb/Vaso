@@ -1,0 +1,22 @@
+public class Vasilije {
+
+public static void main(String[] args) {
+
+ int n = 1 , y = 36; 
+
+ String x = ("Hello World");
+  
+   while (n<=y){
+
+
+    System.out.println(x);
+    n++;
+
+    
+
+
+   
+   
+   }
+}
+}
